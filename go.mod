@@ -1,3 +1,3 @@
-module github.com/legrosyann/simpleGoServer
+module github.com/legrosyann/simpleServerGo
 
 go 1.23.3
